@@ -70,7 +70,7 @@ function App() {
           <li>
             <div className="resultRow">
               <p>Section {index + 1} Flow: </p>
-              <p className="resultValue">{result} °Deg</p>
+              <p className="resultValue">{result} cfs</p>
             </div>
           </li>
         ))}
